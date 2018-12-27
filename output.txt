@@ -1,0 +1,60 @@
+Solution number 1 : 
+Q o o o o 
+o o o Q o 
+o Q o o o 
+o o o o Q 
+o o Q o o 
+Solution number 2 : 
+Q o o o o 
+o o Q o o 
+o o o o Q 
+o Q o o o 
+o o o Q o 
+Solution number 3 : 
+o o Q o o 
+Q o o o o 
+o o o Q o 
+o Q o o o 
+o o o o Q 
+Solution number 4 : 
+o o o Q o 
+Q o o o o 
+o o Q o o 
+o o o o Q 
+o Q o o o 
+Solution number 5 : 
+o Q o o o 
+o o o Q o 
+Q o o o o 
+o o Q o o 
+o o o o Q 
+Solution number 6 : 
+o o o o Q 
+o o Q o o 
+Q o o o o 
+o o o Q o 
+o Q o o o 
+Solution number 7 : 
+o Q o o o 
+o o o o Q 
+o o Q o o 
+Q o o o o 
+o o o Q o 
+Solution number 8 : 
+o o o o Q 
+o Q o o o 
+o o o Q o 
+Q o o o o 
+o o Q o o 
+Solution number 9 : 
+o o o Q o 
+o Q o o o 
+o o o o Q 
+o o Q o o 
+Q o o o o 
+Solution number 10 : 
+o o Q o o 
+o o o o Q 
+o Q o o o 
+o o o Q o 
+Q o o o o 

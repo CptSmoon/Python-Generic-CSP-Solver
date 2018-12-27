@@ -1,0 +1,1594 @@
+Entering level 0
+Gonna print variables for domain element 0
+Q Q Q Q Q 
+o o o o o 
+o o o o o 
+o o o o o 
+o o o o o 
+The domain variable is validated, going to next level
+Entering level 1
+Gonna print variables for domain element 0
+Q Q Q Q Q 
+o o o o o 
+o o o o o 
+o o o o o 
+o o o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+Q o Q Q Q 
+o Q o o o 
+o o o o o 
+o o o o o 
+o o o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+Q o Q Q Q 
+o o o o o 
+o Q o o o 
+o o o o o 
+o o o o o 
+The domain variable is validated, going to next level
+Entering level 2
+Gonna print variables for domain element 0
+Q o Q Q Q 
+o o o o o 
+o Q o o o 
+o o o o o 
+o o o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+Q o o Q Q 
+o o Q o o 
+o Q o o o 
+o o o o o 
+o o o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+Q o o Q Q 
+o o o o o 
+o Q Q o o 
+o o o o o 
+o o o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+Q o o Q Q 
+o o o o o 
+o Q o o o 
+o o Q o o 
+o o o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+Q o o Q Q 
+o o o o o 
+o Q o o o 
+o o o o o 
+o o Q o o 
+The domain variable is validated, going to next level
+Entering level 3
+Gonna print variables for domain element 0
+Q o o Q Q 
+o o o o o 
+o Q o o o 
+o o o o o 
+o o Q o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+Q o o o Q 
+o o o Q o 
+o Q o o o 
+o o o o o 
+o o Q o o 
+The domain variable is validated, going to next level
+Entering level 4
+Gonna print variables for domain element 0
+Q o o o Q 
+o o o Q o 
+o Q o o o 
+o o o o o 
+o o Q o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+Q o o o o 
+o o o Q Q 
+o Q o o o 
+o o o o o 
+o o Q o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+Q o o o o 
+o o o Q o 
+o Q o o Q 
+o o o o o 
+o o Q o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+Q o o o o 
+o o o Q o 
+o Q o o o 
+o o o o Q 
+o o Q o o 
+The domain variable is validated, going to next level
+Entering level 5
+Gonna print variables for domain element 4
+Q o o o o 
+o o o Q o 
+o Q o o o 
+o o o o o 
+o o Q o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+Q o o o o 
+o o o o o 
+o Q o Q o 
+o o o o o 
+o o Q o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+Q o o o o 
+o o o o o 
+o Q o o o 
+o o o Q o 
+o o Q o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+Q o o o o 
+o o o o o 
+o Q o o o 
+o o o o o 
+o o Q Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+Q o o o o 
+o o o o o 
+o o o o o 
+o Q o o o 
+o o Q Q Q 
+The domain variable is validated, going to next level
+Entering level 2
+Gonna print variables for domain element 0
+Q o Q o o 
+o o o o o 
+o o o o o 
+o Q o o o 
+o o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+Q o o o o 
+o o Q o o 
+o o o o o 
+o Q o o o 
+o o o Q Q 
+The domain variable is validated, going to next level
+Entering level 3
+Gonna print variables for domain element 0
+Q o o Q o 
+o o Q o o 
+o o o o o 
+o Q o o o 
+o o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+Q o o o o 
+o o Q Q o 
+o o o o o 
+o Q o o o 
+o o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+Q o o o o 
+o o Q o o 
+o o o Q o 
+o Q o o o 
+o o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+Q o o o o 
+o o Q o o 
+o o o o o 
+o Q o Q o 
+o o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+Q o o o o 
+o o Q o o 
+o o o o o 
+o Q o o o 
+o o o Q Q 
+The domain variable is validated, going to next level
+Entering level 4
+Gonna print variables for domain element 0
+Q o o o Q 
+o o Q o o 
+o o o o o 
+o Q o o o 
+o o o Q o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+Q o o o o 
+o o Q o Q 
+o o o o o 
+o Q o o o 
+o o o Q o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+Q o o o o 
+o o Q o o 
+o o o o Q 
+o Q o o o 
+o o o Q o 
+The domain variable is validated, going to next level
+Entering level 5
+Gonna print variables for domain element 3
+Q o o o o 
+o o Q o o 
+o o o o o 
+o Q o o Q 
+o o o Q o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+Q o o o o 
+o o Q o o 
+o o o o o 
+o Q o o o 
+o o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+Q o o o o 
+o o o o o 
+o o Q o o 
+o Q o o o 
+o o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+Q o o o o 
+o o o o o 
+o o o o o 
+o Q Q o o 
+o o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+Q o o o o 
+o o o o o 
+o o o o o 
+o Q o o o 
+o o Q Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+Q o o o o 
+o o o o o 
+o o o o o 
+o o o o o 
+o Q Q Q Q 
+The domain variable is validated, going to next level
+Entering level 2
+Gonna print variables for domain element 0
+Q o Q o o 
+o o o o o 
+o o o o o 
+o o o o o 
+o Q o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+Q o o o o 
+o o Q o o 
+o o o o o 
+o o o o o 
+o Q o Q Q 
+The domain variable is validated, going to next level
+Entering level 3
+Gonna print variables for domain element 0
+Q o o Q o 
+o o Q o o 
+o o o o o 
+o o o o o 
+o Q o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+Q o o o o 
+o o Q Q o 
+o o o o o 
+o o o o o 
+o Q o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+Q o o o o 
+o o Q o o 
+o o o Q o 
+o o o o o 
+o Q o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+Q o o o o 
+o o Q o o 
+o o o o o 
+o o o Q o 
+o Q o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+Q o o o o 
+o o Q o o 
+o o o o o 
+o o o o o 
+o Q o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+Q o o o o 
+o o o o o 
+o o Q o o 
+o o o o o 
+o Q o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+Q o o o o 
+o o o o o 
+o o o o o 
+o o Q o o 
+o Q o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+Q o o o o 
+o o o o o 
+o o o o o 
+o o o o o 
+o Q Q Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o o o o o 
+Q o o o o 
+o o o o o 
+o o o o o 
+o Q Q Q Q 
+The domain variable is validated, going to next level
+Entering level 1
+Gonna print variables for domain element 0
+o Q o o o 
+Q o o o o 
+o o o o o 
+o o o o o 
+o o Q Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o o o o o 
+Q Q o o o 
+o o o o o 
+o o o o o 
+o o Q Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o o o o o 
+Q o o o o 
+o Q o o o 
+o o o o o 
+o o Q Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o o o o o 
+Q o o o o 
+o o o o o 
+o Q o o o 
+o o Q Q Q 
+The domain variable is validated, going to next level
+Entering level 2
+Gonna print variables for domain element 0
+o o Q o o 
+Q o o o o 
+o o o o o 
+o Q o o o 
+o o o Q Q 
+The domain variable is validated, going to next level
+Entering level 3
+Gonna print variables for domain element 0
+o o Q Q o 
+Q o o o o 
+o o o o o 
+o Q o o o 
+o o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o o Q o o 
+Q o o Q o 
+o o o o o 
+o Q o o o 
+o o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o o Q o o 
+Q o o o o 
+o o o Q o 
+o Q o o o 
+o o o o Q 
+The domain variable is validated, going to next level
+Entering level 4
+Gonna print variables for domain element 0
+o o Q o Q 
+Q o o o o 
+o o o Q o 
+o Q o o o 
+o o o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o o Q o o 
+Q o o o Q 
+o o o Q o 
+o Q o o o 
+o o o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o o Q o o 
+Q o o o o 
+o o o Q Q 
+o Q o o o 
+o o o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o o Q o o 
+Q o o o o 
+o o o Q o 
+o Q o o Q 
+o o o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o o Q o o 
+Q o o o o 
+o o o Q o 
+o Q o o o 
+o o o o Q 
+The domain variable is validated, going to next level
+Entering level 5
+Gonna print variables for domain element 3
+o o Q o o 
+Q o o o o 
+o o o o o 
+o Q o Q o 
+o o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o o Q o o 
+Q o o o o 
+o o o o o 
+o Q o o o 
+o o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o o o o o 
+Q o Q o o 
+o o o o o 
+o Q o o o 
+o o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o o o o o 
+Q o o o o 
+o o Q o o 
+o Q o o o 
+o o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o o o o o 
+Q o o o o 
+o o o o o 
+o Q Q o o 
+o o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o o o o o 
+Q o o o o 
+o o o o o 
+o Q o o o 
+o o Q Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o o o o o 
+Q o o o o 
+o o o o o 
+o o o o o 
+o Q Q Q Q 
+The domain variable is validated, going to next level
+Entering level 2
+Gonna print variables for domain element 0
+o o Q o o 
+Q o o o o 
+o o o o o 
+o o o o o 
+o Q o Q Q 
+The domain variable is validated, going to next level
+Entering level 3
+Gonna print variables for domain element 0
+o o Q Q o 
+Q o o o o 
+o o o o o 
+o o o o o 
+o Q o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o o Q o o 
+Q o o Q o 
+o o o o o 
+o o o o o 
+o Q o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o o Q o o 
+Q o o o o 
+o o o Q o 
+o o o o o 
+o Q o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o o Q o o 
+Q o o o o 
+o o o o o 
+o o o Q o 
+o Q o o Q 
+The domain variable is validated, going to next level
+Entering level 4
+Gonna print variables for domain element 0
+o o Q o Q 
+Q o o o o 
+o o o o o 
+o o o Q o 
+o Q o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o o Q o o 
+Q o o o Q 
+o o o o o 
+o o o Q o 
+o Q o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o o Q o o 
+Q o o o o 
+o o o o Q 
+o o o Q o 
+o Q o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o o Q o o 
+Q o o o o 
+o o o o o 
+o o o Q Q 
+o Q o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o o Q o o 
+Q o o o o 
+o o o o o 
+o o o Q o 
+o Q o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o o Q o o 
+Q o o o o 
+o o o o o 
+o o o o o 
+o Q o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o o o o o 
+Q o Q o o 
+o o o o o 
+o o o o o 
+o Q o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o o o o o 
+Q o o o o 
+o o Q o o 
+o o o o o 
+o Q o Q Q 
+The domain variable is validated, going to next level
+Entering level 3
+Gonna print variables for domain element 0
+o o o Q o 
+Q o o o o 
+o o Q o o 
+o o o o o 
+o Q o o Q 
+The domain variable is validated, going to next level
+Entering level 4
+Gonna print variables for domain element 0
+o o o Q Q 
+Q o o o o 
+o o Q o o 
+o o o o o 
+o Q o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o o o Q o 
+Q o o o Q 
+o o Q o o 
+o o o o o 
+o Q o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o o o Q o 
+Q o o o o 
+o o Q o Q 
+o o o o o 
+o Q o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o o o Q o 
+Q o o o o 
+o o Q o o 
+o o o o Q 
+o Q o o o 
+The domain variable is validated, going to next level
+Entering level 5
+Gonna print variables for domain element 4
+o o o Q o 
+Q o o o o 
+o o Q o o 
+o o o o o 
+o Q o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o o o o o 
+Q o o Q o 
+o o Q o o 
+o o o o o 
+o Q o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o o o o o 
+Q o o o o 
+o o Q Q o 
+o o o o o 
+o Q o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o o o o o 
+Q o o o o 
+o o Q o o 
+o o o Q o 
+o Q o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o o o o o 
+Q o o o o 
+o o Q o o 
+o o o o o 
+o Q o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o o o o o 
+Q o o o o 
+o o o o o 
+o o Q o o 
+o Q o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o o o o o 
+Q o o o o 
+o o o o o 
+o o o o o 
+o Q Q Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o o o o o 
+o o o o o 
+Q o o o o 
+o o o o o 
+o Q Q Q Q 
+The domain variable is validated, going to next level
+Entering level 1
+Gonna print variables for domain element 0
+o Q o o o 
+o o o o o 
+Q o o o o 
+o o o o o 
+o o Q Q Q 
+The domain variable is validated, going to next level
+Entering level 2
+Gonna print variables for domain element 0
+o Q Q o o 
+o o o o o 
+Q o o o o 
+o o o o o 
+o o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o Q o o o 
+o o Q o o 
+Q o o o o 
+o o o o o 
+o o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o Q o o o 
+o o o o o 
+Q o Q o o 
+o o o o o 
+o o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o Q o o o 
+o o o o o 
+Q o o o o 
+o o Q o o 
+o o o Q Q 
+The domain variable is validated, going to next level
+Entering level 3
+Gonna print variables for domain element 0
+o Q o Q o 
+o o o o o 
+Q o o o o 
+o o Q o o 
+o o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o Q o o o 
+o o o Q o 
+Q o o o o 
+o o Q o o 
+o o o o Q 
+The domain variable is validated, going to next level
+Entering level 4
+Gonna print variables for domain element 0
+o Q o o Q 
+o o o Q o 
+Q o o o o 
+o o Q o o 
+o o o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o Q o o o 
+o o o Q Q 
+Q o o o o 
+o o Q o o 
+o o o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o Q o o o 
+o o o Q o 
+Q o o o Q 
+o o Q o o 
+o o o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o Q o o o 
+o o o Q o 
+Q o o o o 
+o o Q o Q 
+o o o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o Q o o o 
+o o o Q o 
+Q o o o o 
+o o Q o o 
+o o o o Q 
+The domain variable is validated, going to next level
+Entering level 5
+Gonna print variables for domain element 2
+o Q o o o 
+o o o o o 
+Q o o Q o 
+o o Q o o 
+o o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o Q o o o 
+o o o o o 
+Q o o o o 
+o o Q Q o 
+o o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o Q o o o 
+o o o o o 
+Q o o o o 
+o o Q o o 
+o o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o Q o o o 
+o o o o o 
+Q o o o o 
+o o o o o 
+o o Q Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o o o o o 
+o Q o o o 
+Q o o o o 
+o o o o o 
+o o Q Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o o o o o 
+o o o o o 
+Q Q o o o 
+o o o o o 
+o o Q Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o o o o o 
+o o o o o 
+Q o o o o 
+o Q o o o 
+o o Q Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o o o o o 
+o o o o o 
+Q o o o o 
+o o o o o 
+o Q Q Q Q 
+The domain variable is validated, going to next level
+Entering level 2
+Gonna print variables for domain element 0
+o o Q o o 
+o o o o o 
+Q o o o o 
+o o o o o 
+o Q o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o o o o o 
+o o Q o o 
+Q o o o o 
+o o o o o 
+o Q o Q Q 
+The domain variable is validated, going to next level
+Entering level 3
+Gonna print variables for domain element 0
+o o o Q o 
+o o Q o o 
+Q o o o o 
+o o o o o 
+o Q o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o o o o o 
+o o Q Q o 
+Q o o o o 
+o o o o o 
+o Q o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o o o o o 
+o o Q o o 
+Q o o Q o 
+o o o o o 
+o Q o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o o o o o 
+o o Q o o 
+Q o o o o 
+o o o Q o 
+o Q o o Q 
+The domain variable is validated, going to next level
+Entering level 4
+Gonna print variables for domain element 0
+o o o o Q 
+o o Q o o 
+Q o o o o 
+o o o Q o 
+o Q o o o 
+The domain variable is validated, going to next level
+Entering level 5
+Gonna print variables for domain element 1
+o o o o o 
+o o Q o Q 
+Q o o o o 
+o o o Q o 
+o Q o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o o o o o 
+o o Q o o 
+Q o o o Q 
+o o o Q o 
+o Q o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o o o o o 
+o o Q o o 
+Q o o o o 
+o o o Q Q 
+o Q o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o o o o o 
+o o Q o o 
+Q o o o o 
+o o o Q o 
+o Q o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o o o o o 
+o o Q o o 
+Q o o o o 
+o o o o o 
+o Q o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o o o o o 
+o o o o o 
+Q o Q o o 
+o o o o o 
+o Q o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o o o o o 
+o o o o o 
+Q o o o o 
+o o Q o o 
+o Q o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o o o o o 
+o o o o o 
+Q o o o o 
+o o o o o 
+o Q Q Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o o o o o 
+o o o o o 
+o o o o o 
+Q o o o o 
+o Q Q Q Q 
+The domain variable is validated, going to next level
+Entering level 1
+Gonna print variables for domain element 0
+o Q o o o 
+o o o o o 
+o o o o o 
+Q o o o o 
+o o Q Q Q 
+The domain variable is validated, going to next level
+Entering level 2
+Gonna print variables for domain element 0
+o Q Q o o 
+o o o o o 
+o o o o o 
+Q o o o o 
+o o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o Q o o o 
+o o Q o o 
+o o o o o 
+Q o o o o 
+o o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o Q o o o 
+o o o o o 
+o o Q o o 
+Q o o o o 
+o o o Q Q 
+The domain variable is validated, going to next level
+Entering level 3
+Gonna print variables for domain element 0
+o Q o Q o 
+o o o o o 
+o o Q o o 
+Q o o o o 
+o o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o Q o o o 
+o o o Q o 
+o o Q o o 
+Q o o o o 
+o o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o Q o o o 
+o o o o o 
+o o Q Q o 
+Q o o o o 
+o o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o Q o o o 
+o o o o o 
+o o Q o o 
+Q o o Q o 
+o o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o Q o o o 
+o o o o o 
+o o Q o o 
+Q o o o o 
+o o o Q Q 
+The domain variable is validated, going to next level
+Entering level 4
+Gonna print variables for domain element 0
+o Q o o Q 
+o o o o o 
+o o Q o o 
+Q o o o o 
+o o o Q o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o Q o o o 
+o o o o Q 
+o o Q o o 
+Q o o o o 
+o o o Q o 
+The domain variable is validated, going to next level
+Entering level 5
+Gonna print variables for domain element 2
+o Q o o o 
+o o o o o 
+o o Q o Q 
+Q o o o o 
+o o o Q o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o Q o o o 
+o o o o o 
+o o Q o o 
+Q o o o Q 
+o o o Q o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o Q o o o 
+o o o o o 
+o o Q o o 
+Q o o o o 
+o o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o Q o o o 
+o o o o o 
+o o o o o 
+Q o Q o o 
+o o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o Q o o o 
+o o o o o 
+o o o o o 
+Q o o o o 
+o o Q Q Q 
+The domain variable is validated, going to next level
+Entering level 3
+Gonna print variables for domain element 0
+o Q o Q o 
+o o o o o 
+o o o o o 
+Q o o o o 
+o o Q o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o Q o o o 
+o o o Q o 
+o o o o o 
+Q o o o o 
+o o Q o Q 
+The domain variable is validated, going to next level
+Entering level 4
+Gonna print variables for domain element 0
+o Q o o Q 
+o o o Q o 
+o o o o o 
+Q o o o o 
+o o Q o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o Q o o o 
+o o o Q Q 
+o o o o o 
+Q o o o o 
+o o Q o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o Q o o o 
+o o o Q o 
+o o o o Q 
+Q o o o o 
+o o Q o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o Q o o o 
+o o o Q o 
+o o o o o 
+Q o o o Q 
+o o Q o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o Q o o o 
+o o o Q o 
+o o o o o 
+Q o o o o 
+o o Q o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o Q o o o 
+o o o o o 
+o o o Q o 
+Q o o o o 
+o o Q o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o Q o o o 
+o o o o o 
+o o o o o 
+Q o o Q o 
+o o Q o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o Q o o o 
+o o o o o 
+o o o o o 
+Q o o o o 
+o o Q Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o o o o o 
+o Q o o o 
+o o o o o 
+Q o o o o 
+o o Q Q Q 
+The domain variable is validated, going to next level
+Entering level 2
+Gonna print variables for domain element 0
+o o Q o o 
+o Q o o o 
+o o o o o 
+Q o o o o 
+o o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o o o o o 
+o Q Q o o 
+o o o o o 
+Q o o o o 
+o o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o o o o o 
+o Q o o o 
+o o Q o o 
+Q o o o o 
+o o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o o o o o 
+o Q o o o 
+o o o o o 
+Q o Q o o 
+o o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o o o o o 
+o Q o o o 
+o o o o o 
+Q o o o o 
+o o Q Q Q 
+The domain variable is validated, going to next level
+Entering level 3
+Gonna print variables for domain element 0
+o o o Q o 
+o Q o o o 
+o o o o o 
+Q o o o o 
+o o Q o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o o o o o 
+o Q o Q o 
+o o o o o 
+Q o o o o 
+o o Q o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o o o o o 
+o Q o o o 
+o o o Q o 
+Q o o o o 
+o o Q o Q 
+The domain variable is validated, going to next level
+Entering level 4
+Gonna print variables for domain element 0
+o o o o Q 
+o Q o o o 
+o o o Q o 
+Q o o o o 
+o o Q o o 
+The domain variable is validated, going to next level
+Entering level 5
+Gonna print variables for domain element 1
+o o o o o 
+o Q o o Q 
+o o o Q o 
+Q o o o o 
+o o Q o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o o o o o 
+o Q o o o 
+o o o Q Q 
+Q o o o o 
+o o Q o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o o o o o 
+o Q o o o 
+o o o Q o 
+Q o o o Q 
+o o Q o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o o o o o 
+o Q o o o 
+o o o Q o 
+Q o o o o 
+o o Q o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o o o o o 
+o Q o o o 
+o o o o o 
+Q o o Q o 
+o o Q o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o o o o o 
+o Q o o o 
+o o o o o 
+Q o o o o 
+o o Q Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o o o o o 
+o o o o o 
+o Q o o o 
+Q o o o o 
+o o Q Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o o o o o 
+o o o o o 
+o o o o o 
+Q Q o o o 
+o o Q Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o o o o o 
+o o o o o 
+o o o o o 
+Q o o o o 
+o Q Q Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o o o o o 
+o o o o o 
+o o o o o 
+o o o o o 
+Q Q Q Q Q 
+The domain variable is validated, going to next level
+Entering level 1
+Gonna print variables for domain element 0
+o Q o o o 
+o o o o o 
+o o o o o 
+o o o o o 
+Q o Q Q Q 
+The domain variable is validated, going to next level
+Entering level 2
+Gonna print variables for domain element 0
+o Q Q o o 
+o o o o o 
+o o o o o 
+o o o o o 
+Q o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o Q o o o 
+o o Q o o 
+o o o o o 
+o o o o o 
+Q o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o Q o o o 
+o o o o o 
+o o Q o o 
+o o o o o 
+Q o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o Q o o o 
+o o o o o 
+o o o o o 
+o o Q o o 
+Q o o Q Q 
+The domain variable is validated, going to next level
+Entering level 3
+Gonna print variables for domain element 0
+o Q o Q o 
+o o o o o 
+o o o o o 
+o o Q o o 
+Q o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o Q o o o 
+o o o Q o 
+o o o o o 
+o o Q o o 
+Q o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o Q o o o 
+o o o o o 
+o o o Q o 
+o o Q o o 
+Q o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o Q o o o 
+o o o o o 
+o o o o o 
+o o Q Q o 
+Q o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o Q o o o 
+o o o o o 
+o o o o o 
+o o Q o o 
+Q o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o Q o o o 
+o o o o o 
+o o o o o 
+o o o o o 
+Q o Q Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o o o o o 
+o Q o o o 
+o o o o o 
+o o o o o 
+Q o Q Q Q 
+The domain variable is validated, going to next level
+Entering level 2
+Gonna print variables for domain element 0
+o o Q o o 
+o Q o o o 
+o o o o o 
+o o o o o 
+Q o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o o o o o 
+o Q Q o o 
+o o o o o 
+o o o o o 
+Q o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o o o o o 
+o Q o o o 
+o o Q o o 
+o o o o o 
+Q o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o o o o o 
+o Q o o o 
+o o o o o 
+o o Q o o 
+Q o o Q Q 
+The domain variable is validated, going to next level
+Entering level 3
+Gonna print variables for domain element 0
+o o o Q o 
+o Q o o o 
+o o o o o 
+o o Q o o 
+Q o o o Q 
+The domain variable is validated, going to next level
+Entering level 4
+Gonna print variables for domain element 0
+o o o Q Q 
+o Q o o o 
+o o o o o 
+o o Q o o 
+Q o o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o o o Q o 
+o Q o o Q 
+o o o o o 
+o o Q o o 
+Q o o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o o o Q o 
+o Q o o o 
+o o o o Q 
+o o Q o o 
+Q o o o o 
+The domain variable is validated, going to next level
+Entering level 5
+Gonna print variables for domain element 3
+o o o Q o 
+o Q o o o 
+o o o o o 
+o o Q o Q 
+Q o o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o o o Q o 
+o Q o o o 
+o o o o o 
+o o Q o o 
+Q o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o o o o o 
+o Q o Q o 
+o o o o o 
+o o Q o o 
+Q o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o o o o o 
+o Q o o o 
+o o o Q o 
+o o Q o o 
+Q o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o o o o o 
+o Q o o o 
+o o o o o 
+o o Q Q o 
+Q o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o o o o o 
+o Q o o o 
+o o o o o 
+o o Q o o 
+Q o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o o o o o 
+o Q o o o 
+o o o o o 
+o o o o o 
+Q o Q Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o o o o o 
+o o o o o 
+o Q o o o 
+o o o o o 
+Q o Q Q Q 
+The domain variable is validated, going to next level
+Entering level 2
+Gonna print variables for domain element 0
+o o Q o o 
+o o o o o 
+o Q o o o 
+o o o o o 
+Q o o Q Q 
+The domain variable is validated, going to next level
+Entering level 3
+Gonna print variables for domain element 0
+o o Q Q o 
+o o o o o 
+o Q o o o 
+o o o o o 
+Q o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o o Q o o 
+o o o Q o 
+o Q o o o 
+o o o o o 
+Q o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o o Q o o 
+o o o o o 
+o Q o Q o 
+o o o o o 
+Q o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o o Q o o 
+o o o o o 
+o Q o o o 
+o o o Q o 
+Q o o o Q 
+The domain variable is validated, going to next level
+Entering level 4
+Gonna print variables for domain element 0
+o o Q o Q 
+o o o o o 
+o Q o o o 
+o o o Q o 
+Q o o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o o Q o o 
+o o o o Q 
+o Q o o o 
+o o o Q o 
+Q o o o o 
+The domain variable is validated, going to next level
+Entering level 5
+Gonna print variables for domain element 2
+o o Q o o 
+o o o o o 
+o Q o o Q 
+o o o Q o 
+Q o o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o o Q o o 
+o o o o o 
+o Q o o o 
+o o o Q Q 
+Q o o o o 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o o Q o o 
+o o o o o 
+o Q o o o 
+o o o Q o 
+Q o o o Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o o Q o o 
+o o o o o 
+o Q o o o 
+o o o o o 
+Q o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 1
+o o o o o 
+o o Q o o 
+o Q o o o 
+o o o o o 
+Q o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 2
+o o o o o 
+o o o o o 
+o Q Q o o 
+o o o o o 
+Q o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o o o o o 
+o o o o o 
+o Q o o o 
+o o Q o o 
+Q o o Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o o o o o 
+o o o o o 
+o Q o o o 
+o o o o o 
+Q o Q Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 3
+o o o o o 
+o o o o o 
+o o o o o 
+o Q o o o 
+Q o Q Q Q 
+A constraint is unsatisfied for this one, skipping
+Gonna print variables for domain element 4
+o o o o o 
+o o o o o 
+o o o o o 
+o o o o o 
+Q Q Q Q Q 
+A constraint is unsatisfied for this one, skipping
